@@ -1,4 +1,3 @@
-"""Fetch auditable public data and analyze it without filling missing observations."""
 import argparse
 import csv
 import hashlib
